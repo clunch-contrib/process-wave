@@ -1,0 +1,30 @@
+{
+  "name": "@clunch/process-wave",
+  "version": "0.1.0",
+  "description": "一个圆形水波进度图。",
+  "main": "index.js",
+  "scripts": {
+    "test": "webpack-dev-server --config webpack.config.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clunch-contrib/process-wave.git"
+  },
+  "keywords": [
+    "clunch",
+    "contrib",
+    "process-wave"
+  ],
+  "author": "你好2007",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/clunch-contrib/process-wave/issues"
+  },
+  "homepage": "https://github.com/clunch-contrib/process-wave#readme",
+  "devDependencies": {
+    "clunch": "^1.5.2",
+    "webpack": "^4.41.2",
+    "webpack-cli": "^3.3.10",
+    "webpack-dev-server": "^3.11.0"
+  }
+}
