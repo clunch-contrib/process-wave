@@ -40,8 +40,8 @@ Clunch.series('ui-process-wave',processWave);
 
 |属性|类型|描述|默认值|可选值|
 |----|----|----|----|----|
-|cx|number|图形中心位置横坐标|||
-|cy|number|图形中心位置纵坐标|0||
+|cx|number|图形中心位置横坐标|画布中心横坐标||
+|cy|number|图形中心位置纵坐标|画布中心纵坐标||
 |radius|number|图形半径|画布最小边的一半||
 |deep|number|动画进度|0.25|0~1|
 
