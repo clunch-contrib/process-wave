@@ -1,7 +1,7 @@
 # process-wave
 一个圆形水波进度图。
 
-<p align='center'><img width='400' src='./view.png'></p>
+<p align='center'><img src='./view.png'></p>
 
 <p>
   <a href="https://hai2007.gitee.io/npm-downloads?interval=7&packages=@clunch/process-wave"><img src="https://img.shields.io/npm/dm/@clunch/process-wave.svg" alt="downloads"></a>
